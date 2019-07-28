@@ -2,7 +2,7 @@
 
 > Implementation of Okta authorization and signin in React
 
-Uses react-router-dom, @okta/okta/react and @okta/okta-signin-widget
+Uses react-router-dom, @okta/okta-react and @okta/okta-signin-widget
 
 ## Quick Start
 Install dependencies
