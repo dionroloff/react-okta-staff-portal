@@ -1,13 +1,15 @@
-# React/Okta Staff Portal
+# React Okta Staff Portal
 
-## Available Scripts
+> Implementation of Okta authorization and signin in React
 
-In the project directory, you can run:
+Uses react-router-dom, @okta/okta/react and @okta/okta-signin-widget
 
-### `npm start`
+## Quick Start
+Install dependencies
+`npm install	`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Serve on localhost:3000
+`npm start`
 
-
-
+Build for production
+`npm run build`
